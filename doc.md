@@ -1,18 +1,20 @@
-<h1>Global stuff</h1>
+<ul style="list-style-type:square;">
+  <li><a href="#rarities">Rarities</a>
+  <li><a href="#classes">Classes</a>
+  <li><a href="#primary">Primary</a>
+  <ul><li><a href="#primaries">Primaries</a></ul>
+  <li><a href="#secondary">Secondary</a>
+  <ul><li><a href="#secondaries">Secondaries</a></ul>
+  <li><a href="#artifacts_storage">Artifacts Storage</a>
+  <ul><li><a href="#artifacts">Artifacts</a></ul>
+  <li><a href="#movement">Movement</a>
+  <li><a href="#attacks">Attacks</a>
+  <li><a href="#spells">Spells</a>
+  <li><a href="#charms">Charms</a>
+  <li><a href="#effects">Effects</a>
+</ul>
 
-<li><a href="#rarities">Rarities</a>
-<li><a href="#classes">Classes</a>
-<li><a href="#primary">Primary</a>
-<ul><li><a href="#primaries">Primaries</a></ul>
-<li><a href="#secondary">Secondary</a>
-<ul><li><a href="#secondaries">Secondaries</a></ul>
-<li><a href="#artifacts_storage">Artifacts Storage</a>
-<ul><li><a href="#artifacts">Artifacts</a></ul>
-<li><a href="#movement">Movement</a>
-<li><a href="#attacks">Attacks</a>
-<li><a href="#spells">Spells</a>
-<li><a href="#charms">Charms</a>
-<li><a href="#effects">Effects</a>
+<h1>Global stuff</h1>
 
 <div id="rarities"><h4>Rarities</h4></div>
 <li>Junk
