@@ -1,5 +1,5 @@
 <h1>Global stuff</h1>
-
+<a name="artifacts">ancre </a>
 <h4>Rarities</h4>
 <li>Junk
 <li>Common
@@ -51,7 +51,7 @@ Apprentice spellbook. A basic spellbook capable of holding up to 3 spells. Any s
 <li>Pet
 <li>(Back, Face...)
 
-<h4>Artifacts</h4>
+<h4>[Artifacts](#artifacts)</h4>
 Monocle of great wealth. +1 style pt. 10% of enemies will drop their loot twice  (Mogrewe)
 Midnight cloak. Become invisible when in dark places. Deal twice as much damage when invisible but loose the effect for 10sec 
 Regenerative moss. Heal .5% hp per sec while near greenery (Regemo)
