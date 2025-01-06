@@ -1,10 +1,21 @@
 <h1>Global stuff</h1>
 
 <h4>Rarities</h4>
-Junk, Common, Uncommon, Rare, Epic, Mythic, Legendary, Unique, Godlike
+<li>Junk
+<li>Common
+<li>Uncommon
+<li>Rare
+<li>Epic
+<li>Mythic
+<li>Legendary
+<li>Unique
+<li>Godlike
 
 <h4>Classes</h4>
-Warrior (--> Soldier --> Paladin --> Berserk), Apprentice (--> Mage --> Wizard --> Enchanter), Archer (--> Arballetist --> Bullseye --> Triple 60), Bandit (--> 
+<li>Warrior (--> Soldier --> Paladin --> Berserk)
+<li>Apprentice (--> Mage --> Wizard --> Enchanter)
+<li>Archer (--> Arballetist --> Bullseye --> Triple 60)
+<li>Bandit (--> 
 
 <h4>Primary (types)</h4>
 battle axe, flair, maces, pickaxe, morning star, quarterstaff, war hammer, knightly/arming sword, dagger, 
@@ -32,7 +43,13 @@ Worn triple chord bow. A bow cappable of holding 3 arrows at once, shooting in a
 Apprentice spellbook. A basic spellbook capable of holding up to 3 spells. Any spell cast with this book costs 5 mana less
 
 <h4>Artifacts storage</h4>
-chest, head, boots, trinkets, legs, pet ------(back, face...)
+<li>Chest
+<li>Head
+<li>Boots
+<li>Trinkets
+<li>Legs pockets 
+<li>Pet
+<li>(Back, Face...)
 
 <h4>Artifacts</h4>
 Monocle of great wealth. +1 style pt. 10% of enemies will drop their loot twice  (Mogrewe)
