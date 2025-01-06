@@ -8,6 +8,8 @@ stick, staff, gloves, cutlass, whip, pike, trident, nunchuck
 Secondary - longbow, recurved bow, shortbow, reflex bow, arbalest, crossbow, repeating crossbow,
 Throwing knife, throwing spear, kunai, shuriken, throwing axe, boomerang, ballistic knife, harpoon
 
+Classes: Warrior (--> Soldier --> Paladin --> Berserk), Apprentice (--> Mage --> Wizard --> Enchanter), Archer (--> Arballetist --> Bullseye --> Triple 60), Bandit (--> 
+
 Rarities - Junk, Common, Uncommon, Rare, Epic, Mythic, Legendary, Unique, Godlike
 
 Attack types
