@@ -1,6 +1,8 @@
 <h1>Global stuff</h1>
+
 <a href="#artifacts">ancre </a>
-<h4>Rarities</h4>
+
+<div id="rarities"><h4>Rarities</h4></div>
 <li>Junk
 <li>Common
 <li>Uncommon
@@ -11,18 +13,18 @@
 <li>Unique
 <li>Godlike
 
-<h4>Classes</h4>
+<div id="classes"><h4>Classes</h4></div>
 <li>Warrior (--> Soldier --> Paladin --> Berserk)
 <li>Apprentice (--> Mage --> Wizard --> Enchanter)
 <li>Archer (--> Arballetist --> Bullseye --> Triple 60)
 <li>Bandit (--> 
 
-<h4>Primary (types)</h4>
+<div id="primaries"><h4>Primary (types)</h4></div>
 battle axe, flair, maces, pickaxe, morning star, quarterstaff, war hammer, knightly/arming sword, dagger, 
 estoc, katana, knife, longsword, rapier, saber, shortswors, scyth, war scyth, poleaxe, spear, halberd, stickle, guandao, 
 stick, staff, gloves, cutlass, whip, pike, trident, nunchuck
 
-<h4>Primaries</h4>
+<div id="primaries"><h4>Primaries</h4></div>
 Excalibur. A legendary sword that grants its weilder 15% resistance to all non magic dmg. Deals both slash and blunt heavy dmg.
 Apprentice dagger. Every kill with this weapon, you have a 20% chance to gain 7 mana, else gain 2 mana
 Worn shortsword. A rusty sword that deals mediocre close range slash dmg
@@ -32,17 +34,17 @@ Gilded combat whip. A heavy whip plated in gold. Deals long range slash dmg in a
 Old dual war scyth. Two small scyth that quickly deal slash dmg on a close range
 The reaper's scyth. This legendary scyth brings death wherever it goes. Deals high damage on a medium long range. For each kill with it, gain +2%dmg for 18sec. Every 6th hit deals 200% dmg and every 666th hit deals 2000% dmg
 
-<h4>Secondary (types)</h4>
+<div id="secondary"><h4>Secondary (types)</h4></div>
 longbow, recurved bow, shortbow, reflex bow, arbalest, crossbow, repeating crossbow,
 Throwing knife, throwing spear, kunai, shuriken, throwing axe, boomerang, ballistic knife, harpoon
 
-<h4>Secondaries</h4>
+<div id="secondaries"><h4>Secondaries</h4></div>
 Training bow. A weak bow used to train an archer rather than to damage enemies.
 Mechanical crossbow. A crossbow that recharges slightly faster and that deals 10% more dmg
 Worn triple chord bow. A bow cappable of holding 3 arrows at once, shooting in a quick succession
 Apprentice spellbook. A basic spellbook capable of holding up to 3 spells. Any spell cast with this book costs 5 mana less
 
-<h4>Artifacts storage</h4>
+<div id="artifactsstorage"><h4>Artifacts storage</h4></div>
 <li>Chest
 <li>Head
 <li>Boots
@@ -69,24 +71,24 @@ Extra long scarf. Enemies around you will randomly trip, being stunned for .3sec
 Sunglasses. +2 style points. All areas around you are slightly darker
 Poisonous mushroom.
 
-<h4>Movement</h4>
+<div id="movement"><h4>Movement</h4></div>
 Dash. 5sec cd. Boost in mouse direction
 Roll. 2.5sec cd. Boost in movement direction
 Void jump. 12sec cd. Wait 1 sec teleport to mouse if close enough
 Bolt. 8sec cd. Quickly dash toward mouse, dealing damage to enemies on its path
 
-<h4>Attack types</h4>
+<div id="attack"><h4>Attack types</h4></div>
 Slash - may deal bleeding, +25%dmg to armorless enemies
 Blunt - bypasses 50% of armor, crits stun
 
-<h4>Spells</h4>
+<div id="spell"><h4>Spells</h4></div>
 Fireball. 25 mana. 3sec cd. Cast a fireball in mouse dir that explodes on impact, dealing dmg + fire
 Arcane circle. 45 mana. 40sec cd. Creates a zone that lasts 10sec. While in this zone, cast spells cost 10% more mana but are amplified by 25%
 
-<h4>Charms</h4>
+<div id="charms"><h4>Charms</h4></div>
 Ace of spade. Increase luck by 5% per lvl. 5lvls
 
-<h4>Effects/Status</h4>
+<div id="effects"><h4>Effects/Status</h4></div>
 Style pts. The more you have the cooler you are. Absolutely useless
 Fire. Target looses 20×fireLvl each 1/2 sec for 5sec
 Stunned. Cannot attack cast spells or move.
