@@ -1,25 +1,40 @@
-Global stuff:
-Artifacts - chest, head, boots, trinkets, legs, pet ------(back, face...)
+<h1>Global stuff</h1>
 
-Primary - battle axe, flair, maces, pickaxe, morning star, quarterstaff, war hammer, knightly/arming sword, dagger, 
+<h4>Rarities</h4>
+Junk, Common, Uncommon, Rare, Epic, Mythic, Legendary, Unique, Godlike
+
+<h4>Classes</h4>
+Warrior (--> Soldier --> Paladin --> Berserk), Apprentice (--> Mage --> Wizard --> Enchanter), Archer (--> Arballetist --> Bullseye --> Triple 60), Bandit (--> 
+
+<h4>Primary (types)</h4>
+battle axe, flair, maces, pickaxe, morning star, quarterstaff, war hammer, knightly/arming sword, dagger, 
 estoc, katana, knife, longsword, rapier, saber, shortswors, scyth, war scyth, poleaxe, spear, halberd, stickle, guandao, 
 stick, staff, gloves, cutlass, whip, pike, trident, nunchuck
 
-Secondary - longbow, recurved bow, shortbow, reflex bow, arbalest, crossbow, repeating crossbow,
+<h4>Primaries</h4>
+Excalibur. A legendary sword that grants its weilder 15% resistance to all non magic dmg. Deals both slash and blunt heavy dmg.
+Apprentice dagger. Every kill with this weapon, you have a 20% chance to gain 7 mana, else gain 2 mana
+Worn shortsword. A rusty sword that deals mediocre close range slash dmg
+Circus whip. Deals high dmg to a single target. Quite long range
+Branch. A stick. Its a stick and you hope to kill with it? Really low mid range attack
+Gilded combat whip. A heavy whip plated in gold. Deals long range slash dmg in a small area. Enemies close to the center are stunned for .5sec
+Old dual war scyth. Two small scyth that quickly deal slash dmg on a close range
+The reaper's scyth. This legendary scyth brings death wherever it goes. Deals high damage on a medium long range. For each kill with it, gain +2%dmg for 18sec. Every 6th hit deals 200% dmg and every 666th hit deals 2000% dmg
+
+<h4>Secondary (types)</h4>
+longbow, recurved bow, shortbow, reflex bow, arbalest, crossbow, repeating crossbow,
 Throwing knife, throwing spear, kunai, shuriken, throwing axe, boomerang, ballistic knife, harpoon
 
-Classes: Warrior (--> Soldier --> Paladin --> Berserk), Apprentice (--> Mage --> Wizard --> Enchanter), Archer (--> Arballetist --> Bullseye --> Triple 60), Bandit (--> 
+<h4>Secondaries</h4>
+Training bow. A weak bow used to train an archer rather than to damage enemies.
+Mechanical crossbow. A crossbow that recharges slightly faster and that deals 10% more dmg
+Worn triple chord bow. A bow cappable of holding 3 arrows at once, shooting in a quick succession
+Apprentice spellbook. A basic spellbook capable of holding up to 3 spells. Any spell cast with this book costs 5 mana less
 
-Rarities - Junk, Common, Uncommon, Rare, Epic, Mythic, Legendary, Unique, Godlike
+<h4>Artifacts storage</h4>
+chest, head, boots, trinkets, legs, pet ------(back, face...)
 
-Attack types
-Slash - may deal bleeding, +25%dmg to armorless enemies
-Blunt - bypasses 50% of armor, crits stun
-
-Charms
-Ace of spade. Increase luck by 5% per lvl. 5lvls
-
-Artifacts
+<h4>Artifacts</h4>
 Monocle of great wealth. +1 style pt. 10% of enemies will drop their loot twice  (Mogrewe)
 Midnight cloak. Become invisible when in dark places. Deal twice as much damage when invisible but loose the effect for 10sec 
 Regenerative moss. Heal .5% hp per sec while near greenery (Regemo)
@@ -37,33 +52,24 @@ Extra long scarf. Enemies around you will randomly trip, being stunned for .3sec
 Sunglasses. +2 style points. All areas around you are slightly darker
 Poisonous mushroom.
 
-Primary
-Excalibur. A legendary sword that grants its weilder 15% resistance to all non magic dmg. Deals both slash and blunt heavy dmg.
-Apprentice dagger. Every kill with this weapon, you have a 20% chance to gain 7 mana, else gain 2 mana
-Worn shortsword. A rusty sword that deals mediocre close range slash dmg
-Circus whip. Deals high dmg to a single target. Quite long range
-Branch. A stick. Its a stick and you hope to kill with it? Really low mid range attack
-Gilded combat whip. A heavy whip plated in gold. Deals long range slash dmg in a small area. Enemies close to the center are stunned for .5sec
-Old dual war scyth. Two small scyth that quickly deal slash dmg on a close range
-The reaper's scyth. This legendary scyth brings death wherever it goes. Deals high damage on a medium long range. For each kill with it, gain +2%dmg for 18sec. Every 6th hit deals 200% dmg and every 666th hit deals 2000% dmg
-
-Secondary
-Training bow. A weak bow used to train an archer rather than to damage enemies.
-Mechanical crossbow. A crossbow that recharges slightly faster and that deals 10% more dmg
-Worn triple chord bow. A bow cappable of holding 3 arrows at once, shooting in a quick succession
-Apprentice spellbook. A basic spellbook capable of holding up to 3 spells. Any spell cast with this book costs 5 mana less
-
-Movement
+<h4>Movement</h4>
 Dash. 5sec cd. Boost in mouse direction
 Roll. 2.5sec cd. Boost in movement direction
 Void jump. 12sec cd. Wait 1 sec teleport to mouse if close enough
 Bolt. 8sec cd. Quickly dash toward mouse, dealing damage to enemies on its path
 
-Spells
+<h4>Attack types</h4>
+Slash - may deal bleeding, +25%dmg to armorless enemies
+Blunt - bypasses 50% of armor, crits stun
+
+<h4>Spells</h4>
 Fireball. 25 mana. 3sec cd. Cast a fireball in mouse dir that explodes on impact, dealing dmg + fire
 Arcane circle. 45 mana. 40sec cd. Creates a zone that lasts 10sec. While in this zone, cast spells cost 10% more mana but are amplified by 25%
 
-Effects/Stats
+<h4>Charms</h4>
+Ace of spade. Increase luck by 5% per lvl. 5lvls
+
+<h4>Effects/Status</h4>
 Style pts. The more you have the cooler you are. Absolutely useless
 Fire. Target looses 20×fireLvl each 1/2 sec for 5sec
 Stunned. Cannot attack cast spells or move.
