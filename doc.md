@@ -1,3 +1,4 @@
+> Links
 <ul style="list-style-type:square;">
   <li><a href="#rarities">Rarities</a>
   <li><a href="#classes">Classes</a>
@@ -14,6 +15,7 @@
   <li><a href="#effects">Effects</a>
 </ul>
 
+> Content
 <h1>Global stuff</h1>
 
 <div id="rarities"><h4>Rarities</h4></div>
