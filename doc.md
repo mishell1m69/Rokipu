@@ -1,6 +1,18 @@
 <h1>Global stuff</h1>
 
-<a href="#artifacts">ancre </a>
+<a href="#rarities">Rarities</a>
+<a href="#classes">Classes</a>
+<a href="#primary">Primaries</a>
+<a href="#primaries">Primaries</a>
+<a href="#secondary">Secondary</a>
+<a href="#secondaries">Secondaries</a>
+<a href="#artifacts_storage">Artifacts Storage</a>
+<a href="#artifacts">Artifacts</a>
+<a href="#movement">Movement</a>
+<a href="#attacks">Attacks</a>
+<a href="#spells">Spells</a>
+<a href="#charms">Charms</a>
+<a href="#effects">Effects</a>
 
 <div id="rarities"><h4>Rarities</h4></div>
 <li>Junk
@@ -19,7 +31,7 @@
 <li>Archer (--> Arballetist --> Bullseye --> Triple 60)
 <li>Bandit (--> 
 
-<div id="primaries"><h4>Primary (types)</h4></div>
+<div id="primary"><h4>Primary (types)</h4></div>
 battle axe, flair, maces, pickaxe, morning star, quarterstaff, war hammer, knightly/arming sword, dagger, 
 estoc, katana, knife, longsword, rapier, saber, shortswors, scyth, war scyth, poleaxe, spear, halberd, stickle, guandao, 
 stick, staff, gloves, cutlass, whip, pike, trident, nunchuck
@@ -44,7 +56,7 @@ Mechanical crossbow. A crossbow that recharges slightly faster and that deals 10
 Worn triple chord bow. A bow cappable of holding 3 arrows at once, shooting in a quick succession
 Apprentice spellbook. A basic spellbook capable of holding up to 3 spells. Any spell cast with this book costs 5 mana less
 
-<div id="artifactsstorage"><h4>Artifacts storage</h4></div>
+<div id="artifacts_storage"><h4>Artifacts storage</h4></div>
 <li>Chest
 <li>Head
 <li>Boots
@@ -77,11 +89,11 @@ Roll. 2.5sec cd. Boost in movement direction
 Void jump. 12sec cd. Wait 1 sec teleport to mouse if close enough
 Bolt. 8sec cd. Quickly dash toward mouse, dealing damage to enemies on its path
 
-<div id="attack"><h4>Attack types</h4></div>
+<div id="attacks"><h4>Attack types</h4></div>
 Slash - may deal bleeding, +25%dmg to armorless enemies
 Blunt - bypasses 50% of armor, crits stun
 
-<div id="spell"><h4>Spells</h4></div>
+<div id="spells"><h4>Spells</h4></div>
 Fireball. 25 mana. 3sec cd. Cast a fireball in mouse dir that explodes on impact, dealing dmg + fire
 Arcane circle. 45 mana. 40sec cd. Creates a zone that lasts 10sec. While in this zone, cast spells cost 10% more mana but are amplified by 25%
 
