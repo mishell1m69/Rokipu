@@ -29,7 +29,7 @@
 <h1>Global stuff</h1>
 
 <div id="rarities"><h4>Rarities</h4></div>
-<li>Junk
+<li><red>Junk
 <li>Common
 <li>Uncommon
 <li>Rare
