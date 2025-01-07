@@ -1,9 +1,3 @@
-
-
-
-
-
-
 > Links
 <ul style="list-style-type:square;">
   <li><a href="#rarities">Rarities</a>
@@ -42,29 +36,70 @@
 <li>Bandit (--> 
 
 <div id="primary"><h4>Primary (types)</h4></div>
-battle axe, flair, maces, pickaxe, morning star, quarterstaff, war hammer, knightly/arming sword, dagger, 
-estoc, katana, knife, longsword, rapier, saber, shortswors, scyth, war scyth, poleaxe, spear, halberd, stickle, guandao, 
-stick, staff, gloves, cutlass, whip, pike, trident, nunchuck
+<li>battle axe 
+<li>flair
+<li>maces
+<li>pickaxe
+<li>morning star
+<li>quarterstaff
+<li>war hammer
+<li>knightly/arming sword
+<li>dagger
+<li>estoc
+<li>katana
+<li>knife
+<li>longsword
+<li>rapier
+<li>saber
+<li>shortswors
+<li>scyth
+<li>war scyth
+<li>poleaxe
+<li>spear
+<li>halberd
+<li>stickle
+<li>guandao
+<li>stick
+<li>staff
+<li>gloves
+<li>cutlass
+<li>whip
+<li>pike
+<li>trident 
+<li>nunchuck
 
 <div id="primaries"><h4>Primaries</h4></div>
-Excalibur. A legendary sword that grants its weilder 15% resistance to all non magic dmg. Deals both slash and blunt heavy dmg.
-Apprentice dagger. Every kill with this weapon, you have a 20% chance to gain 7 mana, else gain 2 mana
-Worn shortsword. A rusty sword that deals mediocre close range slash dmg
-Circus whip. Deals high dmg to a single target. Quite long range
-Branch. A stick. Its a stick and you hope to kill with it? Really low mid range attack
-Gilded combat whip. A heavy whip plated in gold. Deals long range slash dmg in a small area. Enemies close to the center are stunned for .5sec
-Old dual war scyth. Two small scyth that quickly deal slash dmg on a close range
-The reaper's scyth. This legendary scyth brings death wherever it goes. Deals high damage on a medium long range. For each kill with it, gain +2%dmg for 18sec. Every 6th hit deals 200% dmg and every 666th hit deals 2000% dmg
+<li>Excalibur. A legendary sword that grants its weilder 15% resistance to all non magic dmg. Deals both slash and blunt heavy dmg.
+<li>Apprentice dagger. Every kill with this weapon, you have a 20% chance to gain 7 mana, else gain 2 mana
+<li>Worn shortsword. A rusty sword that deals mediocre close range slash dmg
+<li>Circus whip. Deals high dmg to a single target. Quite long range
+<li>Branch. A stick. Its a stick and you hope to kill with it? Really low mid range attack
+<li>Gilded combat whip. A heavy whip plated in gold. Deals long range slash dmg in a small area. Enemies close to the center are stunned for 0.5sec
+<li>Old dual war scyth. Two small scyth that quickly deal slash dmg on a close range
+<li>The reaper's scyth. This legendary scyth brings death wherever it goes. Deals high damage on a medium long range. For each kill with it, gain +2%dmg for 18sec. Every 6th hit deals 200% dmg and every 666th hit deals 2000% dmg
 
 <div id="secondary"><h4>Secondary (types)</h4></div>
-longbow, recurved bow, shortbow, reflex bow, arbalest, crossbow, repeating crossbow,
-Throwing knife, throwing spear, kunai, shuriken, throwing axe, boomerang, ballistic knife, harpoon
+<li>longbow
+<li>recurved bow
+<li>shortbow
+<li>reflex bow
+<li>arbalest
+<li>crossbow
+<li>repeating crossbow
+<li>Throwing knife
+<li>throwing spear
+<li>kunai
+<li>shuriken
+<li>throwing axe
+<li>boomerang
+<li>ballistic knife
+<li>harpoon
 
 <div id="secondaries"><h4>Secondaries</h4></div>
-Training bow. A weak bow used to train an archer rather than to damage enemies.
-Mechanical crossbow. A crossbow that recharges slightly faster and that deals 10% more dmg
-Worn triple chord bow. A bow cappable of holding 3 arrows at once, shooting in a quick succession
-Apprentice spellbook. A basic spellbook capable of holding up to 3 spells. Any spell cast with this book costs 5 mana less
+<li>Training bow. A weak bow used to train an archer rather than to damage enemies.
+<li>Mechanical crossbow. A crossbow that recharges slightly faster and that deals 10% more dmg
+<li>Worn triple chord bow. A bow cappable of holding 3 arrows at once, shooting in a quick succession
+<li>Apprentice spellbook. A basic spellbook capable of holding up to 3 spells. Any spell cast with this book costs 5 mana less
 
 <div id="artifacts_storage"><h4>Artifacts storage</h4></div>
 <li>Chest
