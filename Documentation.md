@@ -1,7 +1,3 @@
-<style>
-  red {color:red;}
-  blue {color:blue;}
-</style>
 
 
 
@@ -29,7 +25,7 @@
 <h1>Global stuff</h1>
 
 <div id="rarities"><h4>Rarities</h4></div>
-<li><red>Junk
+<li>Junk
 <li>Common
 <li>Uncommon
 <li>Rare
