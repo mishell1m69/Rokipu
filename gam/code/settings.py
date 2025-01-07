@@ -1,3 +1,4 @@
+"""Reading the settings file"""
 f = open("./resources/settings.txt", "r")
 
 key=["UP","LEFT","DOWN","RIGHT"]

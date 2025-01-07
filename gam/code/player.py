@@ -1,17 +1,18 @@
-#The player class
-#One instance only, with all the properties of the current player.
+"""The player class
+One instance only, with all the properties of the current player."""
 import pygame
 from entity import Entity
 import settings
-import custom_math as cm
+import utlis.custom_math as cm
+import constants as ct
 
 class Player(Entity):
 
-    def __init__(self,buffer,pos=[0,0],speed=1):
-        Entity.__init__(self,buffer,pos,speed)
+    def __init__(self,pos=[0,0],speed=1):
+        Entity.__init__(self,pos,speed)
 
     def draw(self):
-        pygame.draw.rect(self.buffer, [0,255,0], pygame.Rect(self.pos[0]-8, self.pos[1]-8, 16, 16))
+        pygame.draw.rect(ct.RENDER_BUFFER, [0,255,0], pygame.Rect(self.pos[0]-8, self.pos[1]-8, 16, 16))
 
     def update(self):
         self.entity_update()
