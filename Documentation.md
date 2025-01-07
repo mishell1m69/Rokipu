@@ -1,3 +1,13 @@
+<style>
+  red {color:red;}
+  blue {color:blue;}
+</style>
+
+
+
+
+
+
 > Links
 <ul style="list-style-type:square;">
   <li><a href="#rarities">Rarities</a>
