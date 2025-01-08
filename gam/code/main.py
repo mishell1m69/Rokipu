@@ -10,15 +10,11 @@ from enemies import Enemy
 from player import Player
 import constants as ct
 
-
 class App:
 
     def __init__(self):
-        
+        """Called on game startup, all basic stuff
         """
-        Called on game startup, all basic stuff
-        """
-        
         self.plist=[] #Particle list. Ugly AF, please fix
 
         #Creating basics of the game 
@@ -30,7 +26,7 @@ class App:
         self.screen = pygame.display.set_mode(self.screen_size)
 
         #Initiating game
-        self.tiles=pygame.image.load("resources/floor_tiles.png").convert()
+        self.tiles=pygame.image.load("../resources/floor_tiles.png").convert()
         self.gamestate="Playing"
         self.player=Player([100,100],1)
         self.test_enemy=Enemy([200,200],0.2)
@@ -40,11 +36,8 @@ class App:
         self.loop()
 
     def loop(self):
-        
+        """Global game loop
         """
-        Global game loop
-        """
-        
         while self.running:
             keys = pygame.key.get_pressed()
             for event in pygame.event.get():
