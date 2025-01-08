@@ -1,5 +1,5 @@
 """Reading the settings file"""
-f = open("../resources/settings.txt", "r")
+f = open("gam/resources/settings.txt", "r")
 
 key=["UP","LEFT","DOWN","RIGHT"]
 values=[]
@@ -10,7 +10,7 @@ KEYS={}
 for k in range(len(key)):
   KEYS[key[k]]=values[k]
 
-f = open("../resources/palette.txt", "r")
+f = open("gam/resources/palette.txt", "r")
 PALETTE=[[255,0,0]]
 """
 for line in f:

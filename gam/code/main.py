@@ -30,7 +30,7 @@ class App:
         self.screen = pygame.display.set_mode(self.screen_size)
 
         #Initiating game
-        self.tiles = pygame.image.load("../resources/floor_tiles.png").convert()
+        self.tiles = pygame.image.load("gam/resources/floor_tiles.png").convert()
         self.gamestate = "Playing"
         self.player = Player([100,100],1)
         self.test_enemy = Enemy([200,200],0.2)
@@ -49,9 +49,9 @@ class App:
             keys = pygame.key.get_pressed()
             for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN:
-                    if event.key == pygame.K_P and self.gamestate == "Playing":
+                    if event.key == pygame.K_ESCAPE and self.gamestate == "Playing":
                         self.gamestate = "Paused"
-                    elif event.key == pygame.K_P:
+                    elif event.key == pygame.K_ESCAPE:
                         self.gamestate = "Playing"
                 elif event.type == pygame.QUIT:
                     self.running = False
