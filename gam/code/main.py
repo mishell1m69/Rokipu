@@ -13,8 +13,11 @@ import constants as ct
 class App:
 
     def __init__(self):
-        """Called on game startup, all basic stuff
+        
         """
+        Called on game startup, all basic stuff
+        """
+        
         self.plist=[] #Particle list. Ugly AF, please fix
 
         #Creating basics of the game 
@@ -36,8 +39,11 @@ class App:
         self.loop()
 
     def loop(self):
-        """Global game loop
+        
         """
+        Global game loop
+        """
+        
         while self.running:
             keys = pygame.key.get_pressed()
             for event in pygame.event.get():
@@ -59,6 +65,7 @@ class App:
             pygame.display.update()
         pygame.quit()
 
+
     def draw(self):
         ct.RENDER_BUFFER.fill([0,0,0])
         for x in range(ct.GAME_DRAW_SIZE_X+16):
@@ -70,8 +77,7 @@ class App:
                 if x%16==0 and y%12==0 and (int(x/16)+int(y/12))%2==0:
                     ct.RENDER_BUFFER.blit(self.tiles, (x-16, y))
                     #pygame.Surface.set_at(ct.RENDER_BUFFER,(x,y),[100,0,0])
-                
-        
+                        
         self.player.draw()
         self.test_enemy.draw()
         self.test_enemy2.draw()
@@ -84,8 +90,6 @@ class App:
         self.test_enemy.update(self.player.pos)
         self.test_enemy2.update(self.player.pos)
         
-
-
 
 if __name__ == '__main__':
     App()
