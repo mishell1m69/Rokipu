@@ -42,9 +42,9 @@ class App:
             keys = pygame.key.get_pressed()
             for event in pygame.event.get():
                 if event.type == pygame.KEYDOWN:
-                    if event.key == pygame.K_ESCAPE and self.gamestate=="Playing":
+                    if event.key == pygame.K_P and self.gamestate=="Playing":
                         self.gamestate="Paused"
-                    elif event.key == pygame.K_ESCAPE:
+                    elif event.key == pygame.K_P:
                         self.gamestate="Playing"
                 elif event.type == pygame.QUIT:
                     self.running = False
