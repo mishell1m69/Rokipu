@@ -22,7 +22,7 @@ class App:
         self.plist=[] #Particle list. Ugly AF, please fix
 
         #Creating basics of the game 
-        self.screen_mult = 7
+        self.screen_mult = 5
         self.screen_size = (ct.GAME_DRAW_SIZE_X * self.screen_mult, ct.GAME_DRAW_SIZE_Y * self.screen_mult)
         pygame.init()
         self.running = True
@@ -71,27 +71,28 @@ class App:
         ct.RENDER_BUFFER.fill([0,0,0])
         for x in range(ct.GAME_DRAW_SIZE_X+16):
             for y in range(ct.GAME_DRAW_SIZE_Y):
-                
+
                 """
                 if (int(x/16)+int(y/12))%2==0:
                     pygame.Surface.set_at(ct.RENDER_BUFFER,(x,y),[25,25,25])
                 """
-                
+
                 if x % 16 == 0 and y % 12 == 0 and (int(x / 16) + int(y / 12)) % 2 == 0:
                     ct.RENDER_BUFFER.blit(self.tiles, (x - 16, y))
                     #pygame.Surface.set_at(ct.RENDER_BUFFER, (x, y), [100,0,0])
-                        
+
         self.player.draw()
         self.test_enemy.draw()
         self.test_enemy2.draw()
-        update_particles_list(self.plist) #will be replaced by particle system
-        
+        draw_particles_list(self.plist) #will be replaced by particle system
+
 
     def update(self):
-        self.plist.append(Particle(list(self.player.pos), random.randint(100, 150))) #Will be replaced by particle generator
+        self.plist.append(Particle(list(self.player.pos),[0,-1],[0.5,0.5],[1/100,1/100], random.randint(100, 150),[0,0],[255,255,200],[-0.4,-1.1,-2])) #Will be replaced by particle generator
         self.player.update()
         self.test_enemy.update(self.player.pos)
         self.test_enemy2.update(self.player.pos)
+        update_particles_list(self.plist) #will be replaced by particle system
         
 
 if __name__ == '__main__':
