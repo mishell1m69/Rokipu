@@ -13,6 +13,7 @@
   <li><a href="#spells">Spells</a>
   <li><a href="#charms">Charms</a>
   <li><a href="#effects">Effects</a>
+  <li><a href="#mecas">Mécaniques</a>
 </ul>
 
 > Content
@@ -152,3 +153,7 @@
 <li>Invisible. Other entities cannot see target. Can still be the victim of spells and attacks
 <li>Luck. Starts at 1.  Define how often rare objects are generated. Using luck/rarity×100%
 <li>Vulnerable. The target's armor is half as efficient and they take +25% dmg
+
+
+<div id="mecas"><h4>Mécaniques</h4></div>
+<li>
